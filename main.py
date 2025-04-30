@@ -11,7 +11,7 @@ for item in pet_store:
     if item["price"]:
         cost += item["price"]
 
-print(cost)
+print(f"total price is {cost} for the pet store")
 
 
 
