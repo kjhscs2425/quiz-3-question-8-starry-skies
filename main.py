@@ -12,3 +12,6 @@ for item in pet_store:
         cost += item["price"]
 
 print(cost)
+
+
+
